@@ -5,9 +5,9 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Randolomitics"
 header:
-   image_fullwidth: "rando.jpg"
+   image_fullwidth: rando.jpg
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
