@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Randolomitics"
 header:
-   image_fullwidth: "rando.jpg"
+   image_fullwidth: "unsplash_1.jpg"
     
 widget-1:
     title: "Blog"
